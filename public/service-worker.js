@@ -3,9 +3,9 @@ const FILES_TO_CACHE = [
     "/index.html",
     "/styles.css",
     "/dist/app.bundle.js",
-    "/dist/assets/icons/icon_192x192.png",
-    "/dist/assets/icons/icon_512x512.png",
-    "/dist/manifest.json"
+    "/icons/icon_192x192.png",
+    "/icons/icon_512x512.png",
+    "/manifest.json"
   ];
   
   const STATIC_CACHE = "static-cache-v1";
